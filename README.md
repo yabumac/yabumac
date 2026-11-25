@@ -64,42 +64,48 @@ I build practical software that solves real operational problems: learning platf
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/yabumac/Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Portal&theme=tokyonight&hide_border=true&border_radius=12" alt="Portal" /></a>
-      <br/><sub>WhatsApp learning bot with a real-time admin dashboard</sub>
-      <br/><a href="https://portal-six-sepia-65.vercel.app"><sub><b>Live demo</b></sub></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/yabumac/Erp-Agents"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Erp-Agents&theme=tokyonight&hide_border=true&border_radius=12" alt="Erp-Agents" /></a>
-      <br/><sub>Gmail inbox, branded replies and batch campaigns</sub>
-      <br/><a href="https://erp-agents.vercel.app"><sub><b>Live demo</b></sub></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/yabumac/update_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=update_portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="Personal Portfolio" /></a>
-      <br/><sub>Personal portfolio built with Next.js and TypeScript</sub>
-      <br/><a href="https://update-portfolio-eosin.vercel.app"><sub><b>Live demo</b></sub></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/yabumac/Digital-Pedagogy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Digital-Pedagogy&theme=tokyonight&hide_border=true&border_radius=12" alt="Digital Pedagogy" /></a>
-      <br/><sub>Python serverless app for digital learning</sub>
-      <br/><a href="https://digital-pedagogy.vercel.app"><sub><b>Live demo</b></sub></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/yabumac/Mindsmith"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Mindsmith&theme=tokyonight&hide_border=true&border_radius=12" alt="Mindsmith" /></a>
-      <br/><sub>Python serverless app on Vercel</sub>
-      <br/><a href="https://mindsmith-nine.vercel.app"><sub><b>Live demo</b></sub></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/yabumac/Elexir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Elexir&theme=tokyonight&hide_border=true&border_radius=12" alt="Elexir" /></a>
-      <br/><sub>Python serverless app on Vercel</sub>
-      <br/><a href="https://elexir-indol.vercel.app"><sub><b>Live demo</b></sub></a>
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/yabumac/Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Portal&theme=tokyonight&hide_border=true&border_radius=12" alt="Portal" /></a>
+        <br/><sub>WhatsApp learning bot with a real-time admin dashboard</sub>
+        <br/><a href="https://portal-six-sepia-65.vercel.app"><sub><b>Live demo</b></sub></a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/yabumac/Erp-Agents"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Erp-Agents&theme=tokyonight&hide_border=true&border_radius=12" alt="Erp-Agents" /></a>
+        <br/><sub>Gmail inbox, branded replies and batch campaigns</sub>
+        <br/><a href="https://erp-agents.vercel.app"><sub><b>Live demo</b></sub></a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/yabumac/update_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=update_portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="Personal Portfolio" /></a>
+        <br/><sub>Personal portfolio built with Next.js and TypeScript</sub>
+        <br/><a href="https://update-portfolio-eosin.vercel.app"><sub><b>Live demo</b></sub></a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/yabumac/Digital-Pedagogy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Digital-Pedagogy&theme=tokyonight&hide_border=true&border_radius=12" alt="Digital Pedagogy" /></a>
+        <br/><sub>Python serverless app for digital learning</sub>
+        <br/><a href="https://digital-pedagogy.vercel.app"><sub><b>Live demo</b></sub></a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/yabumac/Mindsmith"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Mindsmith&theme=tokyonight&hide_border=true&border_radius=12" alt="Mindsmith" /></a>
+        <br/><sub>Python serverless app on Vercel</sub>
+        <br/><a href="https://mindsmith-nine.vercel.app"><sub><b>Live demo</b></sub></a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/yabumac/Elexir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Elexir&theme=tokyonight&hide_border=true&border_radius=12" alt="Elexir" /></a>
+        <br/><sub>Python serverless app on Vercel</sub>
+        <br/><a href="https://elexir-indol.vercel.app"><sub><b>Live demo</b></sub></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
