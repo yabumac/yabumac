@@ -78,9 +78,9 @@ I build practical software that solves real operational problems: learning platf
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/yabumac/kalTeka-Portifolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=kalTeka-Portifolio&theme=tokyonight&hide_border=true&border_radius=12" alt="Kal Teka Portfolio" /></a>
-      <br/><sub>TypeScript portfolio site with Gemini API integration</sub>
-      <br/><a href="https://kal-teka-portifolio.vercel.app"><sub><b>Live demo</b></sub></a>
+      <a href="https://github.com/yabumac/update_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=update_portfolio&theme=tokyonight&hide_border=true&border_radius=12" alt="Personal Portfolio" /></a>
+      <br/><sub>Personal portfolio built with Next.js and TypeScript</sub>
+      <br/><a href="https://update-portfolio-eosin.vercel.app"><sub><b>Live demo</b></sub></a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/yabumac/Digital-Pedagogy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yabumac&repo=Digital-Pedagogy&theme=tokyonight&hide_border=true&border_radius=12" alt="Digital Pedagogy" /></a>
@@ -107,7 +107,7 @@ I build practical software that solves real operational problems: learning platf
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yabumac&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=14&margin-h=14" alt="GitHub trophies" width="100%" />
+  <img src="https://trophy.ryglcloud.net/?username=yabumac&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=14&margin-h=14" alt="GitHub trophies" width="100%" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
