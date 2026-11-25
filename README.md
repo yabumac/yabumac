@@ -43,6 +43,14 @@ I build practical software that solves real operational problems: learning platf
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## Highlights
+
+<p align="center">
+  <img src="./assets/highlights.svg" width="100%" alt="15 public repositories, 7 live deployments, 3 languages shipped, 2 API integrations" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## Technical Stack
 
 <p align="center">
@@ -96,6 +104,14 @@ I build practical software that solves real operational problems: learning platf
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yabumac&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=14&margin-h=14" alt="GitHub trophies" width="100%" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## GitHub Activity
 
 <p align="center">
@@ -105,6 +121,14 @@ I build practical software that solves real operational problems: learning platf
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yabumac&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yabumac/yabumac/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yabumac/yabumac/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/yabumac/yabumac/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
